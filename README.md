@@ -1,6 +1,5 @@
 # Asus Router SSL Updater
-
-This repository contains a Bash script for automatically updating wildcard SSL certificates on Asus routers. The script uses the `acme.sh` script and works with the NGINX service. 
+This repository contains a Bash script for automatically updating wildcard SSL certificates on Asus routers. The script uses the `acme.sh` script and works with the NGINX service. This approach is particularly useful if you're using your Asus router for domain forwarding.
 
 The script is designed to work with the Advanced DNS service from Namecheap.com. 
 
