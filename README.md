@@ -6,11 +6,11 @@ The script is designed to work with the Advanced DNS service from Namecheap.com.
 
 ## Prerequisites
 
-### Optware
+### Entware
 
-To start, you need to implement Optware on your Asus router. Optware is a software repository that offers various software programs that can be installed on your router. 
+To start, you need to implement Optware on your Asus router. Entware is a software repository that offers various software programs that can be installed on your router. 
 
-Please refer to the following guide for implementing Optware: [https://github.com/RMerl/asuswrt-merlin.ng/wiki/Entware]
+Please refer to the following guide for implementing Entware: [https://github.com/RMerl/asuswrt-merlin.ng/wiki/Entware]
 
 ### acme.sh
 
