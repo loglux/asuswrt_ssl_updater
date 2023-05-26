@@ -25,4 +25,4 @@ The script requires that you set up an `account.conf` file which will be stored 
 NAMECHEAP_API_KEY='<your-namecheap-api-key>'
 NAMECHEAP_USERNAME='<your-namecheap-username>'
 NAMECHEAP_SOURCEIP='<your-source-ip>'
-USER_PATH='/opt/bin:/opt/sbin:/bin:/usr/bin:/sbin:/usr/sbin:/home/simulacra:/mmc/sbin:/mmc/bin:/mmc/usr/sbin:/mmc/usr/bin:/opt/sbin:/opt/bin:/opt/usr/sbin:/opt/usr/bin'
+USER_PATH='/opt/bin:/opt/sbin:/bin:/usr/bin:/sbin:/usr/sbin:/mmc/sbin:/mmc/bin:/mmc/usr/sbin:/mmc/usr/bin:/opt/sbin:/opt/bin:/opt/usr/sbin:/opt/usr/bin'
