@@ -10,13 +10,13 @@ The script is designed to work with the Advanced DNS service from Namecheap.com.
 
 To start, you need to implement Optware on your Asus router. Optware is a software repository that offers various software programs that can be installed on your router. 
 
-Please refer to the following guide for implementing Optware: [Optware Guide Link Here]
+Please refer to the following guide for implementing Optware: [https://github.com/RMerl/asuswrt-merlin.ng/wiki/Entware]
 
 ### acme.sh
 
 After implementing Optware, you need to install the `acme.sh` script. `acme.sh` is a simple, powerful, and user-friendly shell script for generating and managing certificates from Let's Encrypt.
 
-Please refer to the following guide for installing `acme.sh`: [acme.sh Installation Guide Link Here]
+Please refer to the following guide for installing `acme.sh`: [https://github.com/acmesh-official/acme.sh]
 
 ### Namecheap Account Configuration
 
